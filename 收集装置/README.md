@@ -1,0 +1,6 @@
+**借物**
+1. 320车头[[MCJE]320纯净车头](https://www.bilibili.com/video/BV1LKKFehEFh/?share_source=copy_web&vd_source=2944450cffb6364cc71d92cc4ae74ad5)
+2. 矿车分类 [[mc] 四舍五入相当于4gt的物品堆分](https://www.bilibili.com/video/BV1Du411n7SD/?share_source=copy_web&vd_source=2944450cffb6364cc71d92cc4ae74ad5)
+3. 六倍速打包机[【1.16+】最小静音六倍速潜影盒打包机 3X4X4]( https://www.bilibili.com/video/BV1qP4y1G7mz/?share_source=copy_web&vd_source=2944450cffb6364cc71d92cc4ae74ad5)
+4. 六倍速混杂打包机 [六倍速混杂打包机](https://github.com/acaciachan/tree-hole/blob/main/%E6%8A%95%E5%BD%B1%E4%B8%8E%E5%AD%98%E6%A1%A3/07.%20%E7%89%A9%E5%93%81%E4%B8%8E%E5%AD%98%E5%82%A8/03.%20%E6%89%93%E5%8C%85%E6%9C%BA/%E6%B7%B7%E6%9D%82%E6%89%93%E5%8C%85%E6%9C%BA/%E5%85%AD%E5%80%8D%E9%80%9F%E5%85%A8%E6%A3%80%E6%B5%8B%E6%B7%B7%E6%9D%82%E6%89%93%E5%8C%85%E6%9C%BA%20v5.litematic)
+5. 潜影盒分类 [金合欢的8gt盒子分类v5](https://github.com/acaciachan/tree-hole/blob/main/%E6%8A%95%E5%BD%B1%E4%B8%8E%E5%AD%98%E6%A1%A3/07.%20%E7%89%A9%E5%93%81%E4%B8%8E%E5%AD%98%E5%82%A8/05.%20%E7%9B%92%E5%AD%90%E7%9B%B8%E5%85%B3/%E5%8D%95%E7%A7%8D%E7%89%A9%E5%93%81%E7%9B%92%E5%AD%90%E5%88%86%E7%B1%BB/%E9%87%91%E5%90%88%E6%AC%A2%E7%9A%848gt%E7%9B%92%E5%AD%90%E5%88%86%E7%B1%BB/%E9%87%91%E5%90%88%E6%AC%A2%E7%9A%848gt%E7%9B%92%E5%AD%90%E5%88%86%E7%B1%BBv5%20(1.16%2B%E5%85%A8%E9%94%81).litematic)
